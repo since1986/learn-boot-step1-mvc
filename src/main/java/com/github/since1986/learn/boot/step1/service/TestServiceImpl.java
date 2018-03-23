@@ -23,7 +23,7 @@ public class TestServiceImpl implements TestService {
                 TestModel
                         .newBuilder()
                         .withId(System.nanoTime())
-                        .withName("测试")
+                        .withName(name)
                         .build()
         );
     }
