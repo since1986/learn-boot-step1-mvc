@@ -23,7 +23,7 @@
 │                           │   └── TestController.java
 │                           ├── mapper Mapper接口包
 │                           │   ├── MapperConfig.java Mapper配置
-│                           │   └── TestMapper.java
+│                           │   └── TestMapper.java Mapper接口
 │                           ├── model Model类包
 │                           │   └── TestModel.java
 │                           └── service Service包
