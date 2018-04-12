@@ -4,7 +4,7 @@
 ## 简介
 这是我的文章[「Spring Cloud与微服务学习笔记-关于Spring Boot」](https://since1986.github.io/blog/37ba2479.html)对应的工程。
 
-## 结构：
+## 结构
 ```
 .
 ├── java
